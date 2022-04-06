@@ -11,7 +11,6 @@ Follow the prompts in the video to load the correct exercise file.
 1. To use these exercise files, you must have the following installed:
 	- Python 3.8
 	- [Anaconda](https://anaconda.com/products/individual)
-	- Jupyter Notebooks
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Follow along with video 00_03 "Using the exercise files" for setup instructions.
 
