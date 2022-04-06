@@ -13,7 +13,7 @@ Follow the prompts in the video to load the correct exercise file.
 	- [Anaconda](https://anaconda.com/products/individual)
 	- Jupyter Notebooks
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. Follow along with video 00_03 for setup instructions.
+3. Follow along with video 00_03 "Using the exercise files" for setup instructions.
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
