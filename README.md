@@ -3,7 +3,7 @@ This is the repository for the LinkedIn Learning course `Predictive Customer Ana
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
-This repository contains the exercise files in a folder called "Exercise Files". This folder contains both the Data (.CSV) files, as well as the Jupyter Notebook (.ipynb) files used in the course. 
+This repository contains the exercise files in a folder called ["Exercise Files"](https://github.com/LinkedInLearning/predictive-consumer-analytics-3018274/tree/main/Exercise%20Files). This folder contains both the Data (.CSV) files, as well as the Jupyter Notebook (.ipynb) files used in the course. 
 
 Follow the prompts in the video to load the correct exercise file.
 
